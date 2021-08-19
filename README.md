@@ -1,1 +1,1 @@
-# Algorithms to get contrast of thing films and algorithm to get contrast on images
+# Algorithm to get contrast of thin films and algorithm to get contrast on images
